@@ -509,5 +509,5 @@ def yahoo():
 def clone():
 	embuh = raw_input("\n\x1b[1;97m >>> ")
 	if embuh =="":
-		print "\033[1;96m[!] \x1b[1;91mIsi yang benar"
+		print "\033[1;96m[!] \x1b[1;91mMrNoobZz"
 	elif embuh =="1
